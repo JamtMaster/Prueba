@@ -4,3 +4,7 @@ probando 2 1
 probado 3
 
 cambio local
+
+--------editar desde rama-----
+
+probando como ver los commits viejos
